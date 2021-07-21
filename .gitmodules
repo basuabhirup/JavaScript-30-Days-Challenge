@@ -1,3 +1,6 @@
 [submodule "js30-day-01-js-drum-kit"]
 	path = js30-day-01-js-drum-kit
 	url = https://github.com/basuabhirup/js30-day-01-js-drum-kit
+[submodule "js30-day-02-js-and-css-clock"]
+	path = js30-day-02-js-and-css-clock
+	url = https://github.com/basuabhirup/js30-day-02-js-and-css-clock.git
