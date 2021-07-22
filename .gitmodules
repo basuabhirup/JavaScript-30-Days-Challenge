@@ -4,3 +4,6 @@
 [submodule "js30-day-02-js-and-css-clock"]
 	path = js30-day-02-js-and-css-clock
 	url = https://github.com/basuabhirup/js30-day-02-js-and-css-clock.git
+[submodule "js30-day-03-css-variables"]
+	path = js30-day-03-css-variables
+	url = https://github.com/basuabhirup/js30-day-03-css-variables.git
