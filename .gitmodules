@@ -7,3 +7,6 @@
 [submodule "js30-day-03-css-variables"]
 	path = js30-day-03-css-variables
 	url = https://github.com/basuabhirup/js30-day-03-css-variables.git
+[submodule "js30-day-04-array-cardio-1"]
+	path = js30-day-04-array-cardio-1
+	url = https://github.com/basuabhirup/js30-day-04-array-cardio-1.git
