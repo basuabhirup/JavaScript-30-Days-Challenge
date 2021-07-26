@@ -13,3 +13,6 @@
 [submodule "js30-day-05-flex-panels-image-gallery"]
 	path = js30-day-05-flex-panels-image-gallery
 	url = https://github.com/basuabhirup/js30-day-05-flex-panels-image-gallery.git
+[submodule "js30-day-06-ajax-type-ahead"]
+	path = js30-day-06-ajax-type-ahead
+	url = https://github.com/basuabhirup/js30-day-06-ajax-type-ahead.git
