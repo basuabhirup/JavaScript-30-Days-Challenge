@@ -16,3 +16,6 @@
 [submodule "js30-day-06-ajax-type-ahead"]
 	path = js30-day-06-ajax-type-ahead
 	url = https://github.com/basuabhirup/js30-day-06-ajax-type-ahead.git
+[submodule "js30-day-07-array-cardio-2"]
+	path = js30-day-07-array-cardio-2
+	url = https://github.com/basuabhirup/js30-day-07-array-cardio-2.git
