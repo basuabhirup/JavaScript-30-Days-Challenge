@@ -22,3 +22,6 @@
 [submodule "js30-day-08-html5-canvas"]
 	path = js30-day-08-html5-canvas
 	url = https://github.com/basuabhirup/js30-day-08-html5-canvas.git
+[submodule "js30-day-09-dev-tools-tricks"]
+	path = js30-day-09-dev-tools-tricks
+	url = https://github.com/basuabhirup/js30-day-09-dev-tools-tricks.git
