@@ -25,3 +25,6 @@
 [submodule "js30-day-09-dev-tools-tricks"]
 	path = js30-day-09-dev-tools-tricks
 	url = https://github.com/basuabhirup/js30-day-09-dev-tools-tricks.git
+[submodule "js30-day-10-hold-shift-to-check-multiple-checkboxes"]
+	path = js30-day-10-hold-shift-to-check-multiple-checkboxes
+	url = https://github.com/basuabhirup/js30-day-10-hold-shift-to-check-multiple-checkboxes.git
