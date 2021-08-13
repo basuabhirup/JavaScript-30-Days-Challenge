@@ -31,3 +31,6 @@
 [submodule "js30-day-11-custom-html5-video-player"]
 	path = js30-day-11-custom-html5-video-player
 	url = https://github.com/basuabhirup/js30-day-11-custom-html5-video-player.git
+[submodule "js30-day-12-key-sequence-detection"]
+	path = js30-day-12-key-sequence-detection
+	url = https://github.com/basuabhirup/js30-day-12-key-sequence-detection.git
