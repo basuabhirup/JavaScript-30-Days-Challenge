@@ -37,3 +37,6 @@
 [submodule "js30-day-13-slide-in-on-scroll"]
 	path = js30-day-13-slide-in-on-scroll
 	url = https://github.com/basuabhirup/js30-day-13-slide-in-on-scroll.git
+[submodule "js30-day-14-reference-vs-copy"]
+	path = js30-day-14-reference-vs-copy
+	url = https://github.com/basuabhirup/js30-day-14-reference-vs-copy.git
