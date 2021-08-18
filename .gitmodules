@@ -40,3 +40,6 @@
 [submodule "js30-day-14-reference-vs-copy"]
 	path = js30-day-14-reference-vs-copy
 	url = https://github.com/basuabhirup/js30-day-14-reference-vs-copy.git
+[submodule "js30-day-15-local-storage-and-event-delegation"]
+	path = js30-day-15-local-storage-and-event-delegation
+	url = https://github.com/basuabhirup/js30-day-15-local-storage-and-event-delegation.git
