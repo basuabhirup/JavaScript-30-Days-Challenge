@@ -43,3 +43,6 @@
 [submodule "js30-day-15-local-storage-and-event-delegation"]
 	path = js30-day-15-local-storage-and-event-delegation
 	url = https://github.com/basuabhirup/js30-day-15-local-storage-and-event-delegation.git
+[submodule "js30-day-16-mouse-move-effect"]
+	path = js30-day-16-mouse-move-effect
+	url = https://github.com/basuabhirup/js30-day-16-mouse-move-effect.git
