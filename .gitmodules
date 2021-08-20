@@ -49,3 +49,6 @@
 [submodule "js30-day-17-sort-without-articles"]
 	path = js30-day-17-sort-without-articles
 	url = https://github.com/basuabhirup/js30-day-17-sort-without-articles.git
+[submodule "js30-day-18-adding-up-video-times"]
+	path = js30-day-18-adding-up-video-times
+	url = https://github.com/basuabhirup/js30-day-18-adding-up-video-times.git
