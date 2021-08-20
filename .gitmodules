@@ -46,3 +46,6 @@
 [submodule "js30-day-16-mouse-move-effect"]
 	path = js30-day-16-mouse-move-effect
 	url = https://github.com/basuabhirup/js30-day-16-mouse-move-effect.git
+[submodule "js30-day-17-sort-without-articles"]
+	path = js30-day-17-sort-without-articles
+	url = https://github.com/basuabhirup/js30-day-17-sort-without-articles.git
