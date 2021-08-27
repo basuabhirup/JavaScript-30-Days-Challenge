@@ -52,3 +52,6 @@
 [submodule "js30-day-18-adding-up-video-times"]
 	path = js30-day-18-adding-up-video-times
 	url = https://github.com/basuabhirup/js30-day-18-adding-up-video-times.git
+[submodule "js30-day-19-webcam-fun"]
+	path = js30-day-19-webcam-fun
+	url = https://github.com/basuabhirup/js30-day-19-webcam-fun.git
