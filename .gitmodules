@@ -55,3 +55,6 @@
 [submodule "js30-day-19-webcam-fun"]
 	path = js30-day-19-webcam-fun
 	url = https://github.com/basuabhirup/js30-day-19-webcam-fun.git
+[submodule "js30-day-20-speech-detection"]
+	path = js30-day-20-speech-detection
+	url = https://github.com/basuabhirup/js30-day-20-speech-detection.git
