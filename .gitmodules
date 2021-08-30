@@ -67,3 +67,6 @@
 [submodule "js30-day-23-speech-synthesis"]
 	path = js30-day-23-speech-synthesis
 	url = https://github.com/basuabhirup/js30-day-23-speech-synthesis.git
+[submodule "js30-day-24-sticky-navbar"]
+	path = js30-day-24-sticky-navbar
+	url = https://github.com/basuabhirup/js30-day-24-sticky-navbar.git
