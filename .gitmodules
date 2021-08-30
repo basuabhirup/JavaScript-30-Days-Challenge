@@ -64,3 +64,6 @@
 [submodule "js30-day-22-follow-along-links"]
 	path = js30-day-22-follow-along-links
 	url = https://github.com/basuabhirup/js30-day-22-follow-along-links.git
+[submodule "js30-day-23-speech-synthesis"]
+	path = js30-day-23-speech-synthesis
+	url = https://github.com/basuabhirup/js30-day-23-speech-synthesis.git
