@@ -79,3 +79,6 @@
 [submodule "js30-day-27-click-and-drag"]
 	path = js30-day-27-click-and-drag
 	url = https://github.com/basuabhirup/js30-day-27-click-and-drag.git
+[submodule "js30-day-28-video-speed-scrubber"]
+	path = js30-day-28-video-speed-scrubber
+	url = https://github.com/basuabhirup/js30-day-28-video-speed-scrubber.git
