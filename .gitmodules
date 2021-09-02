@@ -73,3 +73,6 @@
 [submodule "js30-day-25-event-capture"]
 	path = js30-day-25-event-capture
 	url = https://github.com/basuabhirup/js30-day-25-event-capture.git
+[submodule "js30-day-26-follow-along-nav"]
+	path = js30-day-26-follow-along-nav
+	url = https://github.com/basuabhirup/js30-day-26-follow-along-nav.git
