@@ -82,3 +82,6 @@
 [submodule "js30-day-28-video-speed-scrubber"]
 	path = js30-day-28-video-speed-scrubber
 	url = https://github.com/basuabhirup/js30-day-28-video-speed-scrubber.git
+[submodule "js30-day-29-countdown-timer"]
+	path = js30-day-29-countdown-timer
+	url = https://github.com/basuabhirup/js30-day-29-countdown-timer.git
