@@ -85,3 +85,6 @@
 [submodule "js30-day-29-countdown-timer"]
 	path = js30-day-29-countdown-timer
 	url = https://github.com/basuabhirup/js30-day-29-countdown-timer.git
+[submodule "js30-day-30-whack-a-mole"]
+	path = js30-day-30-whack-a-mole
+	url = https://github.com/basuabhirup/js30-day-30-whack-a-mole.git
